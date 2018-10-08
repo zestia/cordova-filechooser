@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-filechooser",
+  "name": "@zestia/cordova-plugin-filechooser",
   "version": "1.0.1",
   "description": "Cordova FileChooser Plugin",
   "main": "index.js",
