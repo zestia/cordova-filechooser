@@ -1,6 +1,6 @@
 {
   "name": "@zestia/cordova-plugin-filechooser",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Cordova FileChooser Plugin",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,7 @@
   "engines": {
     "cordovaDependencies": {
       "1.0.0": {
-        "cordova-ios": ">4.0.0"
+        "cordova-android": ">7.0.0"
       }
     }
   }
